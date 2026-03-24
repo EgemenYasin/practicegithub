@@ -1,1 +1,3 @@
 amhf
+
+print("hello")
